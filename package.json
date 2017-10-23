@@ -1,0 +1,25 @@
+{
+  "name": "douglas",
+  "version": "1.0.0",
+  "description": "a code that assigns certain strings to outcomes of certain prime factors of a number.",
+  "main": "rainDrops.js",
+  "scripts": {
+    "test": "mocha**/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddouglasz/rainDrops.git"
+  },
+  "author": "douglas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddouglasz/rainDrops/issues"
+  },
+  "homepage": "https://github.com/ddouglasz/rainDrops#readme",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  },
+  "dependencies": {
+    "chai": "^4.1.2"
+  }
+}
