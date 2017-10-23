@@ -20,3 +20,4 @@ const rainDrops=(n)=>{
   }
   return drops;
 }
+module.exports=rainDrops;

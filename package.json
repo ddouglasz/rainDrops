@@ -4,7 +4,7 @@
   "description": "a code that assigns certain strings to outcomes of certain prime factors of a number.",
   "main": "rainDrops.js",
   "scripts": {
-    "test": "mocha**/*.test.js"
+    "test": "mocha rainDrops.test.js"
   },
   "repository": {
     "type": "git",
